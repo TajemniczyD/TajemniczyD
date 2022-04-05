@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @TajemniczyD
-- 👀 I’m interested in game developing.
-- 🌱 I’m currently learning C++ SFML.
+- 👋 Hi, I’m @Tajemniczy!
+- 🌱 I’m currently learning C++, Java and computer science!
